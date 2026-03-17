@@ -1,0 +1,3 @@
+The current folder contains a file named 'Initial Requirements.txt' which contains details of the
+solution to be built. The specification preparation and subsequent actual building of the solution was interrupted due
+to usage limit. Please resume where the work was left and complete it.

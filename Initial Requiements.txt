@@ -1,0 +1,14 @@
+Need to build a web app and mobile app fully modular solution for a trader using React,Nestjs and SQLite. This modular design should allow functionalities to be added and existing functinalities to be modified easily.
+This solution is for a fish trader
+The trader purchases in bulk (in containers) and sells it in retail quantity by packing in boxes.
+Boxes of varying capacities. 
+There has to be separate customer master maintained to mangage customer details like Customer name, Shop name, Address,Mobile number. 
+An entry screen for capturing the number of boxes sent, the bill number,description, the date sent, total boxes sent including current quanity, boxes returned from customer, balance boxes to be returned, driver name, vehicle number, description column to capture whether it is opening balance , balance forward etc.,
+Sometimes boxes would be arranged from other sources and sent for customers. Such boxes count also has to be maintained along with its source details.
+The system should generate the following report : Number of boxes sent within a date range to a particular customer,
+Number of boxes sent to a customer on a given date also in each of these reports
+A separte bill type print should be generated in a pdf format and shared via WhatsApp with the customer
+
+
+
+
